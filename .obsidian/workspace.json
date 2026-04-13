@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf90bf2070f8272",
+        "id": "0e97507bb8b3fd62",
         "type": "tabs",
         "children": [
           {
-            "id": "ad42ac71850fdeb8",
+            "id": "80f65fc24e03bc9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pwn.college/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -176,14 +180,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad42ac71850fdeb8",
+  "active": "80f65fc24e03bc9c",
   "lastOpenFiles": [
-    "pwn.college/Linux Luminarium/2. Input and Output (IO) Redirection.md",
+    "pwn.college/Linux.md",
     "pwn.college/README.md",
+    "pwn.college/Linux Luminarium/5. Data Manipulation.md",
+    "pwn.college/Linux Luminarium/2. Input and Output (IO) Redirection.md",
     "pwn.college/Linux Luminarium/6. Processes and Jobs.md",
     "README.md",
     "pwn.college/Linux Luminarium/4. Named Pipes (FIFO).md",
-    "pwn.college/Linux Luminarium/5. Data Manipulation.md",
     "pwn.college/Linux Luminarium/3. Process Substitutions.md",
     "pwn.college/Linux Luminarium/1. Shell Expansions.md",
     "pwn.college/Linux Luminarium",
