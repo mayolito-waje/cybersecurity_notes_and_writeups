@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b7c14872b32e1a",
+        "id": "d7fc5fa0f912a2c6",
         "type": "tabs",
         "children": [
           {
-            "id": "891b0662ab5a1fb6",
+            "id": "fa5960cb23f56a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "891b0662ab5a1fb6",
+  "active": "fa5960cb23f56a61",
   "lastOpenFiles": [
-    "pwn.college/Linux Luminarium/7. Untangling Users.md",
+    "pwn.college/Linux Luminarium/8. Perceiving Permissions.md",
     "pwn.college/README.md",
+    "pwn.college/Linux Luminarium/8.vPerceiving Permissions.md",
+    "pwn.college/Linux Luminarium/7. Untangling Users.md",
     "Untangling Users.md",
     "%2Fpwn.college%2FLinux Luminarium%2F7. Untangling Users.md",
     "pwn.college%2FLinux Luminarium%2F7. Untangling Users.md",
