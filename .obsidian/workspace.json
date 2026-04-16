@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7fc5fa0f912a2c6",
+        "id": "0c4e5bb38504b365",
         "type": "tabs",
         "children": [
           {
-            "id": "fa5960cb23f56a61",
+            "id": "360c28072443b3b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pwn.college/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -180,10 +176,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa5960cb23f56a61",
+  "active": "360c28072443b3b8",
   "lastOpenFiles": [
-    "pwn.college/Linux Luminarium/9. Chaining Commands.md",
+    "pwn.college/Linux Luminarium/10. Terminal Multiplexing.md",
     "pwn.college/README.md",
+    "%2Fpwn.college%2FLinux Luminarium%2F10. Terminal Multiplexing.md",
+    "pwn.college/Linux Luminarium/9. Chaining Commands.md",
     "pwn.college/Linux Luminarium/8. Perceiving Permissions.md",
     "pwn.college/Linux Luminarium/8.vPerceiving Permissions.md",
     "pwn.college/Linux Luminarium/7. Untangling Users.md",
