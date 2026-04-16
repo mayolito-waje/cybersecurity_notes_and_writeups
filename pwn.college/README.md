@@ -11,3 +11,4 @@
 6. [Processes and Jobs](/pwn.college/Linux%20Luminarium/6.%20Processes%20and%20Jobs.md)
 7. [Untangling Users](/pwn.college/Linux%20Luminarium/7.%20Untangling%20Users.md)
 8. [Perceiving Permisions](/pwn.college/Linux%20Luminarium/8.%20Perceiving%20Permissions.md)
+9. [Chaining Commands](/pwn.college/Linux%20Luminarium/9.%20Chaining%20Commands.md)
