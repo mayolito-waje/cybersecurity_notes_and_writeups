@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c4e5bb38504b365",
+        "id": "74d521c2a2901705",
         "type": "tabs",
         "children": [
           {
-            "id": "360c28072443b3b8",
+            "id": "035bd11a3414e199",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,23 +176,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "360c28072443b3b8",
+  "active": "035bd11a3414e199",
   "lastOpenFiles": [
-    "pwn.college/Linux Luminarium/10. Terminal Multiplexing.md",
+    "CompTIA/Network+/1. Understanding the OSI Model.md",
+    "CompTIA/README.md",
     "pwn.college/README.md",
+    "CompTIA/Network+",
+    "README.md",
+    "CompTIA",
+    "Untangling Users.md",
+    "pwn.college/Linux Luminarium/10. Terminal Multiplexing.md",
     "%2Fpwn.college%2FLinux Luminarium%2F10. Terminal Multiplexing.md",
     "pwn.college/Linux Luminarium/9. Chaining Commands.md",
     "pwn.college/Linux Luminarium/8. Perceiving Permissions.md",
     "pwn.college/Linux Luminarium/8.vPerceiving Permissions.md",
     "pwn.college/Linux Luminarium/7. Untangling Users.md",
-    "Untangling Users.md",
     "%2Fpwn.college%2FLinux Luminarium%2F7. Untangling Users.md",
     "pwn.college%2FLinux Luminarium%2F7. Untangling Users.md",
     "pwn.college/Linux Luminarium/6. Processes and Jobs.md",
     "pwn.college/Linux.md",
     "pwn.college/Linux Luminarium/5. Data Manipulation.md",
     "pwn.college/Linux Luminarium/2. Input and Output (IO) Redirection.md",
-    "README.md",
     "pwn.college/Linux Luminarium/4. Named Pipes (FIFO).md",
     "pwn.college/Linux Luminarium/3. Process Substitutions.md",
     "pwn.college/Linux Luminarium/1. Shell Expansions.md",
