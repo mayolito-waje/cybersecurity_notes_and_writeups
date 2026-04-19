@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74d521c2a2901705",
+        "id": "89b68d9729033821",
         "type": "tabs",
         "children": [
           {
-            "id": "035bd11a3414e199",
+            "id": "612e86ae0232bca0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pwn.college/2. Computing 101/1. Your First Program.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Your First Program"
             }
           }
         ]
@@ -176,31 +180,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "035bd11a3414e199",
+  "active": "b0458227d8202188",
   "lastOpenFiles": [
+    "_assets/Pasted image 20260419203904.png",
+    "_assets/Pasted image 20260419203629.png",
+    "_assets/Pasted image 20260419203335.png",
+    "pwn.college/README.md",
+    "pwn.college/2. Computing 101/1. Your First Program.md",
+    "_assets/Pasted image 20260419202410.png",
+    "_assets/Pasted image 20260419200702.png",
+    "_assets",
+    "_assets/Pasted image 20260419200541.png",
+    "pwn.college/1. Linux Luminarium/6. Processes and Jobs.md",
+    "pwn.college/1. Linux Luminarium/1. Shell Expansions.md",
+    "pwn.college/1. Linux Luminarium/12. Silly Shenanigans.md",
+    "pwn.college/2. Computing 101",
+    "pwn.college/1. Linux Luminarium/11. Pondering PATH.md",
+    "pwn.college/Linux Luminarium/11. Pondering.md",
+    "pwn.college/1. Linux Luminarium/2. Input and Output (IO) Redirection.md",
+    "pwn.college/1. Linux Luminarium/3. Process Substitutions.md",
+    "pwn.college/1. Linux Luminarium/4. Named Pipes (FIFO).md",
+    "pwn.college/1. Linux Luminarium/5. Data Manipulation.md",
+    "pwn.college/1. Linux Luminarium/7. Untangling Users.md",
+    "pwn.college/1. Linux Luminarium/9. Chaining Commands.md",
+    "pwn.college/1. Linux Luminarium/10. Terminal Multiplexing.md",
     "CompTIA/Network+/1. Understanding the OSI Model.md",
     "CompTIA/README.md",
-    "pwn.college/README.md",
     "CompTIA/Network+",
     "README.md",
     "CompTIA",
     "Untangling Users.md",
-    "pwn.college/Linux Luminarium/10. Terminal Multiplexing.md",
     "%2Fpwn.college%2FLinux Luminarium%2F10. Terminal Multiplexing.md",
-    "pwn.college/Linux Luminarium/9. Chaining Commands.md",
-    "pwn.college/Linux Luminarium/8. Perceiving Permissions.md",
+    "pwn.college/1. Linux Luminarium/8. Perceiving Permissions.md",
     "pwn.college/Linux Luminarium/8.vPerceiving Permissions.md",
-    "pwn.college/Linux Luminarium/7. Untangling Users.md",
     "%2Fpwn.college%2FLinux Luminarium%2F7. Untangling Users.md",
     "pwn.college%2FLinux Luminarium%2F7. Untangling Users.md",
-    "pwn.college/Linux Luminarium/6. Processes and Jobs.md",
     "pwn.college/Linux.md",
-    "pwn.college/Linux Luminarium/5. Data Manipulation.md",
-    "pwn.college/Linux Luminarium/2. Input and Output (IO) Redirection.md",
-    "pwn.college/Linux Luminarium/4. Named Pipes (FIFO).md",
-    "pwn.college/Linux Luminarium/3. Process Substitutions.md",
-    "pwn.college/Linux Luminarium/1. Shell Expansions.md",
-    "pwn.college/Linux Luminarium",
+    "pwn.college/1. Linux Luminarium",
     "Welcome.md",
     "pwn.college"
   ]
