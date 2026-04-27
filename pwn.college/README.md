@@ -20,3 +20,8 @@ Computing 101
 * [1. Your First Program](2.%20Computing%20101/1.%20Your%20First%20Program.md)
 * [2. Computer Memory](2.%20Computing%20101/2.%20Computer%20Memory.md)
 * [3. Computer Memory - Part 2](2.%20Computing%20101/3.%20Computer%20Memory%20-%20Part%202.md)
+* [4. The Stack](2.%20Computing%20101/4.%20The%20Stack.md)
+* [5. Bytes as Hex and Binary](2.%20Computing%20101/5.%20Bytes%20as%20Hex%20and%20Binary.md)
+* [6. Software Introspection](2.%20Computing%20101/6.%20Software%20Introspection.md)
+* [7. Output and Input](2.%20Computing%20101/7.%20Output%20and%20Input.md)
+* [8. Control Flow](2.%20Computing%20101/8.%20Control%20Flow.md)
