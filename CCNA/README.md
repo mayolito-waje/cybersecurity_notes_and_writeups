@@ -19,3 +19,5 @@
 * [17. VLANs (Part 2)](Jeremy's%20IT%20Lab/17.%20VLANs%20%28Part%202%29.md)
 * [18. VLANs (Part 3)](Jeremy's%20IT%20Lab/18.%20VLANs%20%28Part%203%29.md)
 * [19. DTP and VTP](Jeremy's%20IT%20Lab/19.%20DTP%20and%20VTP.md)
+* [20. Spanning Tree Protocol (Part 1)](Jeremy's%20IT%20Lab/20.%20Spanning%20Tree%20Protocol%20%28Part%201%29.md)
+* [21. Spanning Tree Protocol (Part 2)](Jeremy's%20IT%20Lab/21.%20Spanning%20Tree%20Protocol%20%28Part%202%29.md)
