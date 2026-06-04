@@ -21,3 +21,7 @@
 * [19. DTP and VTP](Jeremy's%20IT%20Lab/19.%20DTP%20and%20VTP.md)
 * [20. Spanning Tree Protocol (Part 1)](Jeremy's%20IT%20Lab/20.%20Spanning%20Tree%20Protocol%20%28Part%201%29.md)
 * [21. Spanning Tree Protocol (Part 2)](Jeremy's%20IT%20Lab/21.%20Spanning%20Tree%20Protocol%20%28Part%202%29.md)
+* [22. PortFast (STP Toolkit)](Jeremy's%20IT%20Lab/22.%20PortFast%20%28STP%20Toolkit%29.md)
+* [23. BPDU Guard & BPDU Filter (STP Toolkit)](Jeremy's%20IT%20Lab/23.%20BPDU%20Guard%20&%20BPDU%20Filter%20%28STP%20Toolkit%29.md)
+* [24. Root Guard (STP Toolkit)](Jeremy's%20IT%20Lab/24.%20Root%20Guard%20%28STP%20Toolkit%29.md)
+* [25. Loop Guard (STP Toolkit)](Jeremy's%20IT%20Lab/25.%20Loop%20Guard%20%28STP%20Toolkit%29.md)
