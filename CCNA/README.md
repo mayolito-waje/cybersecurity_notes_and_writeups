@@ -25,3 +25,4 @@
 * [23. BPDU Guard & BPDU Filter (STP Toolkit)](Jeremy's%20IT%20Lab/23.%20BPDU%20Guard%20&%20BPDU%20Filter%20%28STP%20Toolkit%29.md)
 * [24. Root Guard (STP Toolkit)](Jeremy's%20IT%20Lab/24.%20Root%20Guard%20%28STP%20Toolkit%29.md)
 * [25. Loop Guard (STP Toolkit)](Jeremy's%20IT%20Lab/25.%20Loop%20Guard%20%28STP%20Toolkit%29.md)
+* [26. Rapid STP](Jeremy's%20IT%20Lab/26.%20Rapid%20STP.md)
