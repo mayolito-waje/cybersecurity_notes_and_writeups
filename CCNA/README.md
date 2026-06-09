@@ -27,3 +27,4 @@
 * [25. Loop Guard (STP Toolkit)](Jeremy's%20IT%20Lab/25.%20Loop%20Guard%20%28STP%20Toolkit%29.md)
 * [26. Rapid STP](Jeremy's%20IT%20Lab/26.%20Rapid%20STP.md)
 * [27. EtherChannel](Jeremy's%20IT%20Lab/27.%20EtherChannel.md)
+* [28. Dynamic Routing](Jeremy's%20IT%20Lab/28.%20Dynamic%20Routing.md)
